@@ -1,4 +1,5 @@
 import React, { useRef, useState } from 'react';
+// import $ from 'jquery';
 import $ from 'jquery';
 
 const CartComponent = () => {
